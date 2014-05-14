@@ -1,0 +1,143 @@
+Welcome to the Spartan Race! Who shall will become slaves today?
+Game Mode: 
+1. Regular mode
+2. Debugging mode
+Choice: 2
+Number of Players: 2
+Name: A
+Type: 1
+Name: B
+Type: 2
+Player A rolled a 5 and a 6. Total is: 11. New position: 31.
+Energy remaining: 89
+Player h_B rolled a 6 and a 2. Total is: 8. New position: 48.
+Energy remaining: 52
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d             ?     s                   d 
+1 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1 _ _ _ _ _ _ _ _ _ _ _ _ 
+            ?     w                   d         s   ?     w 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d                   w                     
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Player A rolled a 3 and a 6. Total is: 9. New position: 40.
+Energy remaining: 80
+Player h_B rolled a 1 and a 2. Total is: 3. New position: 51.
+Energy remaining: 49
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d             ?     s                   d 
+_ _ _ _ _ _ _ _ _ _ 1 _ _ _ _ _ _ _ _ _ 1 _ _ _ _ _ _ _ _ _ 
+            ?     w                   d         s   ?     w 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d                   w                     
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Player A rolled a 4 and a 2. Total is: 6. New position: 47.
+Energy remaining: 152
+Player h_B rolled a 1 and a 5. Total is: 6. New position: 57.
+Energy remaining: 43
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d             ?     s                   d 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1 1 _ _ _ _ _ _ _ _ _ _ _ _ 
+            ?     w                   d         s   ?     w 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d                   w                     
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Player A rolled a 6 and a 6. Total is: 12. New position: 59.
+Energy remaining: 140
+Player h_B rolled a 4 and a 5. Total is: 9. New position: 57.
+Energy remaining: 55
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d             ?     s                   d 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1 1 _ 
+            ?     w                   d         s   ?     w 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d                   w                     
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Player A rolled a 2 and a 3. Total is: 5. New position: 64.
+Energy remaining: 135
+Player h_B rolled a 5 and a 6. Total is: 11. New position: 69.
+Energy remaining: 97
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d             ?     s                   d 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+            ?     w                   d         s   ?     w 
+_ _ _ 1 _ _ _ _ 1 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d                   w                     
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Player A rolled a 2 and a 2. Total is: 4. New position: 68.
+Energy remaining: 131
+Player h_B rolled a 4 and a 3. Total is: 7. New position: 76.
+Energy remaining: 90
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d             ?     s                   d 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+            ?     w                   d         s   ?     w 
+_ _ _ _ _ _ _ 1 _ _ _ _ _ _ _ 1 _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d                   w                     
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Player A rolled a 3 and a 6. Total is: 9. New position: 77.
+Energy remaining: 122
+Player h_B rolled a 2 and a 1. Total is: 3. New position: 79.
+Energy remaining: 87
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d             ?     s                   d 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+            ?     w                   d         s   ?     w 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1 _ 1 _ _ _ _ _ _ _ _ _ _ _ 
+                  d                   w                     
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Player A rolled a 3 and a 6. Total is: 9. New position: 86.
+Energy remaining: 113
+Player h_B rolled a 1 and a 1. Total is: 2. New position: 81.
+Energy remaining: 85
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d             ?     s                   d 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+            ?     w                   d         s   ?     w 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1 _ _ _ _ 1 _ _ _ _ 
+                  d                   w                     
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Player A rolled a 4 and a 3. Total is: 7. New position: 93.
+Energy remaining: 106
+Player h_B rolled a 5 and a 4. Total is: 9. New position: 90.
+Energy remaining: 76
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                  d             ?     s                   d 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+            ?     w                   d         s   ?     w 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1 
+                  d                   w                     
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+We have more than one player arriving at the finish line on the same turn. Congratulations to
+
+Player A
+Player h_B
+
+The losers will be sold as slaves. Hahahaha!
+
